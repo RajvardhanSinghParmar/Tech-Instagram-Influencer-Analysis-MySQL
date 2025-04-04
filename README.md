@@ -2,7 +2,7 @@
 
 Guess what? I just turned an Instagram influencer’s data into a 𝗴𝗼𝗹𝗱𝗺𝗶𝗻𝗲 𝗼𝗳 𝗶𝗻𝘀𝗶𝗴𝗵𝘁𝘀 and the results were mind-blowing! 💥
 
-During my internship at AtliQ Technologies, I got my hands dirty with SQL, analytics, and social media metrics to uncover what really makes a tech influencer’s content pop. Here’s the scoop:
+During my internship at **AtliQ Technologies**, I got my hands dirty with SQL, analytics, and social media metrics to uncover what really makes a tech influencer’s content pop. Here’s the scoop:
 
 🔥 𝗧𝗵𝗲 𝗕𝗶𝗴 𝗥𝗲𝘃𝗲𝗮𝗹𝘀 🔥
 
