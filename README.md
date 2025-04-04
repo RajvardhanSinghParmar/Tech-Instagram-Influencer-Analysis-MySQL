@@ -19,4 +19,3 @@ During my internship at AtliQ Technologies, I got my hands dirty with SQL, analy
 Behind every viral post, there’s a data-driven strategy. This project wasn’t just about numbers but about unlocking the secret sauce to higher engagement, smarter content, and explosive growth. 
 
 📊 𝗧𝗼𝗼𝗹𝘀 𝗨𝘀𝗲𝗱: SQL, MySQL Workbench, Microsoft PowerPoint 
-🎯 𝗜𝗺𝗽𝗮𝗰𝘁: Actionable insights to boost reach, optimize posting schedules, and tailor content for maximum impact.
